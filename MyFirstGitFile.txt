@@ -1,1 +1,5 @@
 My new git test file for ruby on rails 
+
+Change in first file
+
+Second change
